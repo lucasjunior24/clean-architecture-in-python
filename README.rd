@@ -6,4 +6,5 @@ virtualenv -p python3 venv
 
 
 
+# rodar pytest
 pytest -s -v
